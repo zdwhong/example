@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ssh2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../ssh整合jar包/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../ssh整合jar包/lib" recursive="false" />
+  </library>
+</component>
